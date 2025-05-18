@@ -17,11 +17,7 @@ A lightweight, dependency-free tool to automatically generate, check, and update
 
 ## Installation
 
-Just download the `pythonDependencies.py` file and place it in your project:
-
-```bash
-curl -O https://raw.githubusercontent.com/YOUR-USERNAME/pythonDependencies/main/pythonDependencies.py
-```
+Just download the `pythonDependencies.py` file and place it in your project
 
 ## Usage
 
